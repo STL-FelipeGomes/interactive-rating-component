@@ -93,7 +93,7 @@ function App() {
           </main>
           <footer>
             <button
-              tyoe='submit'
+              type='submit'
               onClick={() =>
                 isSelection ? evaluated() : toast.error('Choose a note!')
               }
@@ -105,7 +105,7 @@ function App() {
       ) : (
         <div className='content'>
           <header className='header-feedback'>
-            <img src={illustration} alt='' />
+            <img src={illustration} alt='Smartphone illustration' />
             <p>You select {note} out of 5</p>
             <h1>Thank you!</h1>
           </header>
