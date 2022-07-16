@@ -16,6 +16,8 @@
     <p>                                          
       &nbsp;&nbsp;&nbsp;&nbsp;➜ Challenge link: <a href="https://www.frontendmentor.io/challenges/interactive-rating-component-koxpeBUmI"><strong>Interactive rating component</strong></a>
     </p>
+    <img src="https://user-images.githubusercontent.com/83621438/179372978-68c720fb-842b-4a0d-8c23-c69f8073deea.PNG" alt="Main image">
+    <img src="https://user-images.githubusercontent.com/83621438/179372976-06f3ba43-8950-45da-bcda-2b0a2676300e.PNG" alt="Secundary image">
     <p>
       &nbsp;&nbsp;&nbsp;&nbsp;➜ Result: <a href="https://stl-interactive-rating.netlify.app/"><strong>My Interactive rating component</strong></a>
     </p>
