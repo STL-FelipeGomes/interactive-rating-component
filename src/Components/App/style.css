@@ -14,8 +14,6 @@ body {
   height: 100vh;
   background-color: var(--very-dark-blue);
   color: var(--white);
-  overflow-y: hidden;
-  overflow-x: hidden;
 }
 
 .container {
