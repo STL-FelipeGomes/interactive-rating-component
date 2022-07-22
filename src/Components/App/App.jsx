@@ -13,15 +13,15 @@ function App() {
 
   const selectionButton = (option) => {
     let classSelected = document.getElementsByClassName(option)[0]
-    setNote(option.substring(6))
     if (classSelected.classList.contains('value-option')) {
       classSelected.classList.remove('value-option')
       setIsSelection(false)
     } else if (
       !classSelected.classList.contains('value-option') &&
       !isSelection
-    ) {
+      ) {
       classSelected.classList.add('value-option')
+      setNote(option.substring(6))
       setIsSelection(true)
     }
   }
